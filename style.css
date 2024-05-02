@@ -1,5 +1,7 @@
-.estudante-titulo{ 
-text-align: 
-center; }
-text-align: center
-padding: 50px 0
+:root {
+    --branco-principal: #FFFFFF;
+    --cinza-secundario: #C0C0C0;
+    --botao-azul: #167BF7;
+    --cor-de-fundo: #00030C;
+    --fonte-principal: 'Inter';
+}
